@@ -1,6 +1,15 @@
 #sleep {
     background-color: red;
 }
+#truth1 {
+    background-color: blue;
+}
+#truth2 {
+    background-color: rgb(0, 255, 0);
+}
+#lie1 {
+    background-color: rgb(65, 0, 245);
+}
 
 #sizeimg {
     width: 100px;
